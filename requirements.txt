@@ -1,2 +1,3 @@
-import openai
-import clipboard
+openai>=1.0.0
+clipboard
+python-dotenv
